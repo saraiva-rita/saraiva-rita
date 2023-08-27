@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saraiva-rita
+- 👋 Hi, I’m Rita
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 
