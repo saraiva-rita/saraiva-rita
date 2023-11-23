@@ -1,12 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m Rita<br>📍 From Portugal<br>👀 I’m interested in Web Development<br>🌱 I’m a dog and plants lover<br>🏋️‍♂️ A sports enthusiast
+👋 Hi, I’m Rita<br>📍 From Portugal<br>👀 I’m interested in Web Development<br>🌱 I’m a dog and plants lover<br>🏋️‍♂️ A sports enthusiast<br><br>
 
 # 💻 Projects:
 🪴 Botanical Hack - React Full-stack web application about plants, where you can access their detailed information, leave reviews and add favorites.<br>
 
 🍸 Hack Afterhours - Designed to be a guide to cultural, leisure, and dining experiences around Ironhack in Lisbon. <br>
 
-🛩️ War of Planes - A game developed using JavaScript, HTML, and CSS with the main purpose of destroying enemies with lasers and capturing supplies.<br>
+🛩️ War of Planes - A game developed using JavaScript, HTML, and CSS with the main purpose of destroying enemies with lasers and capturing supplies.<br><br>
 
 
 # 💻 Tech Stack:
