@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rita<br>📍 From Portugal<br>👀 I’m interested in Web Development<br>🌱 I’m a dog and plants lover<br>🏋️‍♂️ A sports enthusiast<br><br>
+👋 Hi, I’m Rita<br>📍 From Portugal<br>👀 I’m a Software Developer<br>🌱 I’m a dog and plants lover<br>🏋️‍♂️ A sports enthusiast<br><br>
 
 # 💻 Projects:
 🪴 [Botanical Hack](https://luxury-donut-aa8158.netlify.app/) - React Full-stack web application about plants, where you can access their detailed information, leave reviews and add favorites.<br>
@@ -11,7 +11,7 @@
 
 # 💻 Tech Stack:
 <p><img align="center"
-    src="https://skillicons.dev/icons?i=js,html,css,react,mongodb,nodejs,express,postman,git,vscode,github,figma,netlify,materialui,bootstrap,codepen,discord,(https://skillicom.dev"></p>
+    src="https://skillicons.dev/icons?i=js,html,css,cs,dotnet,react,mongodb,nodejs,express,postman,git,vscode,github,figma,netlify,materialui,bootstrap,codepen,discord,(https://skillicom.dev"></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
