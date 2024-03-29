@@ -11,7 +11,7 @@
 
 # 💻 Tech Stack:
 <p><img align="center"
-    src="https://skillicons.dev/icons?i=js,html,css,cs,dotnet,react,mongodb,nodejs,express,postman,git,vscode,github,figma,netlify,materialui,bootstrap,codepen,discord,(https://skillicom.dev"></p>
+    src="https://skillicons.dev/icons?i=js,html,css,cs,dotnet,react,mongodb,nodejs,express,postman,git,vscode,visualstudio,github,figma,netlify,materialui,bootstrap,codepen,discord,(https://skillicom.dev"></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
